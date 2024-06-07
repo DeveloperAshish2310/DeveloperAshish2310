@@ -1,5 +1,3 @@
-# Ashish's Professional Profile
-
 ## Welcome! ![DeveloperAshish2310](https://komarev.com/ghpvc/?username=DeveloperAshish2310&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Header Image](https://i.pinimg.com/736x/6e/03/21/6e0321597039afa3bc11d02d52fdfa6e.jpg)
