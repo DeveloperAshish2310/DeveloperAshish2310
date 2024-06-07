@@ -1,26 +1,104 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+Chat Response 3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjatvji&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjatvji" /> </p>
+# Ashish's Professional Profile
 
-<p align="left"> <a href="https://twitter.com/ashishjatavji" target="blank"><img src="https://img.shields.io/twitter/follow/ashishjatavji?logo=twitter&style=for-the-badge" alt="ashishjatavji" /></a> </p>
+## Welcome! ![DeveloperAshish2310](https://komarev.com/ghpvc/?username=DeveloperAshish2310&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on [121.page](https:://121.page)
+![Header Image](https://i.pinimg.com/736x/6e/03/21/6e0321597039afa3bc11d02d52fdfa6e.jpg)
 
-- 🌱 I’m currently learning **React, C++ , Java**
+---
 
-- 👨‍💻 All of my projects are available at [theashishkumar.in](theashishkumar.in)
+## About Me
 
-- 💬 Ask me about **PHP, Laravel, JavaScript**
+Hello! I'm Ashish, a passionate and dedicated **Software Engineer** with a background in **Full Stack Web Development** and **Machine Learning**. With a robust skill set and a drive for excellence, I strive to deliver high-quality software solutions that make a difference. Currently, I am honing my skills and contributing to innovative projects at XSInfosol.
 
-- 📫 How to reach me **ashishkumar23102003@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ashishjatavji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashishjatavji" height="30" width="40" /></a>
-<a href="https://twitter.com/ashishjatavji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishjatavji" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ashishjatvji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ashishjatvji" height="30" width="40" /></a>
-</p>
+## Current Position
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Software Engineer at XSInfosol**
+
+- **Duration:** Present
+- **Role:** Working on the development, testing, and upkeep of software applications, implementing Human Biometric Authentication through Machine Learning, and partnering with interdisciplinary teams to provide solid software solutions.
+
+---
+
+## Previous Experience
+
+**Full Stack Web Developer at 121.page**
+
+- **Duration:** 14 Months
+- **Role:**  Developed and sustained a multi-tenant SaaS application, engaged in both client-side and server-side development, ensured fluid user interactions, and incorporated adaptive design on a computing platform.
+
+---
+
+## Skills
+
+### Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/jQuery-598ac2?style=for-the-badge&logo=jquery&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-a7b8cb?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-024482?style=for-the-badge&logo=&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-f9343a?style=for-the-badge&logo=Laravel&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-f8f8f8?style=for-the-badge&logo=Flask&logoColor=black)
+![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=black)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-ef5822?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![APIDOG](https://img.shields.io/badge/APIDOG-1477ff?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Projects
+
+### Project 1: E-commerce Platform
+**Description:** Developed a full-fledged e-commerce platform with features like user authentication, product management, shopping cart, and payment gateway integration.
+
+### Project 2: Real-time Chat Application
+**Description:** Built a real-time chat application using WebSockets, allowing users to communicate instantly with features like typing indicators, message history, and group chats.
+
+### Project 3: Biometric Authentication System
+**Description:** Designed and implemented a biometric authentication system using machine learning algorithms. Trained models in Python with TensorFlow and Keras to recognize and verify users based on fingerprint and facial recognition data.
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+[Indira Gandhi Nation Open University](http://www.ignou.ac.in/)
+
+---
+
+## Contact Me
+
+Feel free to reach out to me for collaboration, job opportunities, or any queries!
+
+- **Work Email:** [ashish@theashishkumar.info](mailto:ashish@theashishkumar.info)
+- **Personal Email:** [Ashishkumar23102003@gmail.com](mailto:Ashishkumar23102003@gmail.com)
+- **LinkedIn:** [linkedin.com/in/developerashish/](https://www.linkedin.com/in/developerashish/)
+- **GitHub:** [github.com/DeveloperAshish2310](https://github.com/DeveloperAshish2310)
+- **X (formally twitter):** [x.com/ashishjatavji](https://x.com/ashishjatavji)
+- **CodePen:** [codepen.io/ashishjatavji](https://codepen.io/ashishjatavji)
+
+---
+
+![Footer Image](https://i.ibb.co/bLMxCBb/e03edbe588d3866d539e5bbb35d9080c.jpg)
+
+---
+
+Thank you for visiting my profile! Looking forward to connecting with you and exploring new opportunities together.
