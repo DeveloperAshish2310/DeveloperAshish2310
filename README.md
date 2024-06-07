@@ -1,5 +1,3 @@
-Chat Response 3
-
 # Ashish's Professional Profile
 
 ## Welcome! ![DeveloperAshish2310](https://komarev.com/ghpvc/?username=DeveloperAshish2310&label=Profile%20views&color=0e75b6&style=flat)
