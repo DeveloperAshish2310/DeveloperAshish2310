@@ -43,6 +43,9 @@ Hello! I'm Ashish, a passionate and dedicated **Software Engineer** with a backg
 ![Laravel](https://img.shields.io/badge/Laravel-f9343a?style=for-the-badge&logo=Laravel&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-f8f8f8?style=for-the-badge&logo=Flask&logoColor=black)
 ![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap CSS(https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-1D4ED8?style=for-the-badge&logo=jQuery&logoColor=white)
 
 ### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
