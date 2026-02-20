@@ -87,7 +87,7 @@ Hello! I'm Ashish, a passionate and dedicated **Software Engineer** with a backg
 
 Feel free to reach out to me for collaboration, job opportunities, or any queries!
 
-- **Work Email:** [ashish@theashishkumar.info](mailto:ashish@theashishkumar.info)
+- **Work Email:** [ashish@theashishkumar.in](mailto:ashish@theashishkumar.in)
 - **Personal Email:** [Ashishkumar23102003@gmail.com](mailto:Ashishkumar23102003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/developerashish/](https://www.linkedin.com/in/developerashish/)
 - **GitHub:** [github.com/DeveloperAshish2310](https://github.com/DeveloperAshish2310)
